@@ -1762,5 +1762,54 @@
     "address": "684 Harrison St, Batesville, AR 72501",
     "lat": 35.7689,
     "lng": -91.641
+  },
+  {
+    "name": "First Apostolic Church of Magnolia",
+    "pastor": "Pastor: Rev. Jeremy Motes",
+    "address": "102 Harvey Couch Blvd, Magnolia, AR 71753, USA",
+    "lat": 33.2743,
+    "lng": -93.2399
+  },
+  {
+    "name": "Calvary Pentecostal Church",
+    "pastor": "Pastor: Rev. Joel Motes",
+    "address": "308 Janette St, Hot Springs, AR 71901, USA",
+    "lat": 34.5037,
+    "lng": -93.0552
+  },
+  {
+    "name": "Calvary Pentecostal Church",
+    "pastor": "Pastor: Rev. Jared Motes",
+    "address": "222 N Hickory St, Amity, AR 71921, USA",
+    "lat": 34.2687,
+    "lng": -93.4655
+  },
+  {
+    "name": "Solid Rock Church",
+    "pastor": "Pastor: Rev. Jesse Hinchey",
+    "address": "E Main St, Marshall, AR 72650, USA",
+    "lat": 35.8987,
+    "lng": -92.6315
+  },
+  {
+    "name": "Landmark Pentecostal Church",
+    "pastor": "Pastor: Rev. Jason Calhoun",
+    "address": "1601 Mall Dr, Texarkana, TX 75503, USA",
+    "lat": 33.4418,
+    "lng": -94.0659
+  },
+  {
+    "name": "Landmark Pentecostal Church",
+    "pastor": "Pastor: Rev. Phillip Lee",
+    "address": "120 County Road 3004, New Boston, TX 75570, USA",
+    "lat": 33.4598,
+    "lng": -94.4159
+  },
+  {
+    "name": "Faith Tabernacle",
+    "pastor": "Pastor: Rev. Floyd Barentine",
+    "address": "9525 FM 2920 Rd, Tomball, TX 77375, USA",
+    "lat": 30.0921,
+    "lng": -95.6060
   }
 ]
