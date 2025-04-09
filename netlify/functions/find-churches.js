@@ -15,11 +15,13 @@ exports.handler = async (event) => {
   const zip = event.queryStringParameters.zip;
   const userLoc = zipCoords[zip];
 
-  // If ZIP not found, assign default user location (e.g., the center of the United States)
+  // If ZIP not found, return a 404 error with an appropriate message
   if (!userLoc) {
-    console.log(`ZIP code not found: ${zip}. Defaulting to closest churches.`);
-    // Use a default location or the first church in the list (as a fallback)
-    return returnClosestChurches();
+    return {
+      statusCode: 404,
+      headers: { "Content-Type": "text/html" },
+      body: `<p>ZIP code not found.</p>`
+    };
   }
 
   // Process the data and find the churches as before
@@ -46,37 +48,8 @@ exports.handler = async (event) => {
   return {
     statusCode: 302, // 302 redirect
     headers: {
-      "Location": `https://fpcbatesville.com/churchlocatorresults?data=${encodeURIComponent(html)}`,
-      "Access-Control-Allow-Origin": "*"  // Allow traffic from any origin
+      Location: `https://fpcbatesville.com/churchlocatorresults?data=${encodeURIComponent(html)}`
     },
     body: ""
   };
 };
-
-// Default behavior when ZIP code is not found, using the closest church as a fallback
-function returnClosestChurches() {
-  const closestChurches = churches
-    .map(ch => {
-      // Fallback to first church in list or define a default location
-      return { ...ch, distance: 0 };
-    })
-    .slice(0, 2);  // Return the first two churches
-  
-  const html = closestChurches.map(ch => `
-    <div>
-      <strong>${ch.name}</strong><br>
-      Pastor: ${ch.pastor}<br>
-      ${ch.address}<br>
-      <em>${ch.distance} miles away</em>
-    </div><br>
-  `).join('');
-
-  return {
-    statusCode: 302,
-    headers: {
-      "Location": `https://fpcbatesville.com/churchlocatorresults?data=${encodeURIComponent(html)}`,
-      "Access-Control-Allow-Origin": "*"  // Allow traffic from any origin
-    },
-    body: ""
-  };
-}
