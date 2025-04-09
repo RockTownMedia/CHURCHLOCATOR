@@ -1,0 +1,1766 @@
+[
+  {
+    "name": "The Lighthouse Church of Sexsmith",
+    "pastor": "Pastor: Rev. James Bridges",
+    "address": "10013 100 St, Sexsmith, AB T0H 3C0, Canada",
+    "lat": 55.3500855,
+    "lng": -118.7855024
+  },
+  {
+    "name": "The Sanctuary of New Bern",
+    "pastor": "Pastor : Rev. Ted Erskin",
+    "address": "2804 Oakland Ave, New Bern, NC 28560, USA",
+    "lat": 35.1271504,
+    "lng": -77.0792681
+  },
+  {
+    "name": "2nd Mile Apostolic Church",
+    "pastor": "Rev. Shawn Gooslin",
+    "address": "57 Highland AVE, Lancaster, KY, 40444, USA",
+    "lat": 37.61549040000001,
+    "lng": -84.5803942
+  },
+  {
+    "name": "Abundant Life - The House Of Mercy",
+    "pastor": "Rev. Jeremy VanLue",
+    "address": "1003 W Lincoln ST, Danville, IN, 46122, USA",
+    "lat": 39.7527911,
+    "lng": -86.5353748
+  },
+  {
+    "name": "Abundant Life Apostolic Church",
+    "pastor": "Rev. Kevin Linkinhoker",
+    "address": "171 Johnson Branch RD, Bryson City, NC, 28713, USA",
+    "lat": 35.4385211,
+    "lng": -83.4121943
+  },
+  {
+    "name": "Abundant Life Christian Center",
+    "pastor": "Rev. Stephen Allard",
+    "address": "3120 Snyder AVE, Modesto, CA, 95356, USA",
+    "lat": 37.6967265,
+    "lng": -121.053843
+  },
+  {
+    "name": "Acts Revival Center",
+    "pastor": "Rev. Dexter Woods Jr",
+    "address": "2959 4th ST, Ceres, CA, 95307, USA",
+    "lat": 37.5903564,
+    "lng": -120.9535934
+  },
+  {
+    "name": "Alamo City Apostolic Church",
+    "pastor": "Rev. Kelly Nix",
+    "address": "9302 Timber PATH, San Antonio, TX, 78250, USA",
+    "lat": 29.4924426,
+    "lng": -98.679411
+  },
+  {
+    "name": "Albion Apostolic Church",
+    "pastor": "Rev. Brad Geans",
+    "address": "1008 E South ST, Albion, IN, 46701, USA",
+    "lat": 41.39371999999999,
+    "lng": -85.411553
+  },
+  {
+    "name": "Antioch The Apostolic Church",
+    "pastor": "Rev. Stephen Gray",
+    "address": "11140 E 10th ST, Indianapolis, IN, 46229, USA",
+    "lat": 39.7831396,
+    "lng": -85.96832100000002
+  },
+  {
+    "name": "Apostolic Church Of England",
+    "pastor": "Rev. Aubrey Dycus",
+    "address": "1654 US Highway 165 W, England, AR, 72046, USA",
+    "lat": 34.5572555,
+    "lng": -91.97544239999999
+  },
+  {
+    "name": "Apostolic Church Of Lumberton",
+    "pastor": "Rev. Weldon Flowers",
+    "address": "1085 S LHS DR, Lumberton, TX, 77657, USA",
+    "lat": 30.229589,
+    "lng": -94.19976299999999
+  },
+  {
+    "name": "Apostolic Church Of Truth",
+    "pastor": "Rev. Aaron Dansby",
+    "address": "1290 N Five Mile RD, Boise, ID, 83713, USA",
+    "lat": 43.6166202,
+    "lng": -116.3140138
+  },
+  {
+    "name": "Apostolic Community Tabernacle",
+    "pastor": "Rev. Freddie Arrieta",
+    "address": "2704 E Andrew Johnson HWY STE 1, Morristown, TN, 37813, USA",
+    "lat": 36.2267036,
+    "lng": -83.2597566
+  },
+  {
+    "name": "Apostolic Faith Church",
+    "pastor": "Rev. Jesse Starr",
+    "address": "2929 19th AVE NW, Minot, ND, 58703, USA",
+    "lat": 48.2540912,
+    "lng": -101.3372582
+  },
+  {
+    "name": "Apostolic Faith Pentecostal Church",
+    "pastor": "Rev. Russell Smith",
+    "address": "25070 Highway 17 S, Waynesville, MO, 65583, USA",
+    "lat": 37.7974656,
+    "lng": -92.2418852
+  },
+  {
+    "name": "Apostolic Faith Tabernacle",
+    "pastor": "Rev. Nathan Karriker",
+    "address": "1319 E 17th, Hutchinson, KS, 67501, USA",
+    "lat": 38.0718958,
+    "lng": -97.9054647
+  },
+  {
+    "name": "Apostolic Life Center",
+    "pastor": "Rev. Oscar  Neil",
+    "address": "104 Reynolds ST, Summersville, WV, 26651, USA",
+    "lat": 38.276686,
+    "lng": -80.8424302
+  },
+  {
+    "name": "Apostolic Lighthouse Church",
+    "pastor": "Rev. Nathan Neff",
+    "address": "2085 7th ST, Baker City, OR, 97814, USA",
+    "lat": 44.7782871,
+    "lng": -117.8382204
+  },
+  {
+    "name": "Apostolic Lighthouse Church Of Jacksonville",
+    "pastor": "Rev. John Yopp",
+    "address": "2180 Dawson Cabin RD, Jacksonville, NC, 28540, USA",
+    "lat": 34.6921563,
+    "lng": -77.4935235
+  },
+  {
+    "name": "Apostolic Lighthouse Church Of Oildale",
+    "pastor": "Rev. Tyler Hodge",
+    "address": "101 Minner AVE, Bakersfield, CA, 93308, USA",
+    "lat": 35.4187785,
+    "lng": -119.0220225
+  },
+  {
+    "name": "Apostolic Lighthouse Church Of Portales",
+    "pastor": "Rev. Walter Moore III",
+    "address": "2929 19th AVE NW, Minot, ND, 58703, USA",
+    "lat": 48.2540912,
+    "lng": -101.3372582
+  },
+  {
+    "name": "Apostolic Lighthouse Tabernacle",
+    "pastor": "Rev. Allen Jenkins",
+    "address": "1353 Heucks Retreat RD NE, Brookhaven, MS, 39601, USA",
+    "lat": 31.61188,
+    "lng": -90.40133809999999
+  },
+  {
+    "name": "Apostolic Lighthouse Tabernacle Church",
+    "pastor": "Rev. Joe Barnhill",
+    "address": "401 N Main ST, Laurinburg, NC, 28352, USA",
+    "lat": 34.7814088,
+    "lng": -79.4591842
+  },
+  {
+    "name": "Apostolic Pentecostal Church",
+    "pastor": "Rev. Ross Frericks",
+    "address": "301 7th ST S, Waite Park, MN, 56387, USA",
+    "lat": 45.5410994,
+    "lng": -94.2202542
+  },
+  {
+    "name": "Apostolic Pentecostal Church Of Panama City",
+    "pastor": "Rev. Dallas DeMoss",
+    "address": "2907 E 11th CT, Panama City, FL, 32401, USA",
+    "lat": 30.1688611,
+    "lng": -85.6202505
+  },
+  {
+    "name": "Apostolic Pentecostal Church Of Sapulpa",
+    "pastor": "Rev. Noah Marshall",
+    "address": "1132 E Bryan AVE, Sapulpa, OK, 74066, USA",
+    "lat": 35.9931036,
+    "lng": -96.0971807
+  },
+  {
+    "name": "Apostolic Rock Church",
+    "pastor": "Rev. Michael Mullings",
+    "address": "2907 E 11th CT, Panama City, FL, 32401, USA",
+    "lat": 30.1688611,
+    "lng": -85.6202505
+  },
+  {
+    "name": "Apostolic Tabernacle",
+    "pastor": "Rev. Needham Stancil",
+    "address": "1309 N Arendell AVE, Zebulon, NC, 27597, USA",
+    "lat": 35.8381729,
+    "lng": -78.324782
+  },
+  {
+    "name": "Apostolic Tabernacle Church",
+    "pastor": "Rev. Evan Grizzle",
+    "address": "712 Wellington Ave, Wilmington, NC, 28401, USA",
+    "lat": 34.1944507,
+    "lng": -77.93279869999999
+  },
+  {
+    "name": "Apostolic Tabernacle Of Leakesville",
+    "pastor": "Rev. Gregory Hicks",
+    "address": "508 Lafayette AVE, Leakesville, MS, 39451, USA",
+    "lat": 31.1519143,
+    "lng": -88.5530321
+  },
+  {
+    "name": "Apostolic Tabernacle Of Owensboro",
+    "pastor": "Rev. Matthew Coomer",
+    "address": "2907 E 11th CT, Panama City, FL, 32401, USA",
+    "lat": 30.1688611,
+    "lng": -85.6202505
+  },
+  {
+    "name": "Apostolic Temple Pentecostal Church",
+    "pastor": "Rev. Ricky Treece",
+    "address": "2711 W Prien Lake RD, Lake Charles, LA, 70605, USA",
+    "lat": 30.193446,
+    "lng": -93.26479599999999
+  },
+  {
+    "name": "Apostolic Truth Tabernacle",
+    "pastor": "Rev. Sherman Jones",
+    "address": "424 Mecom RD, Grayson, LA, 71435, USA",
+    "lat": 32.0260113,
+    "lng": -92.1161176
+  },
+  {
+    "name": "Bardstown Apostolic Sanctuary",
+    "pastor": "Rev. Tim Acree",
+    "address": "111 Plaza DR, Bardstown, KY, 40004, USA",
+    "lat": 37.8071721,
+    "lng": -85.4491697
+  },
+  {
+    "name": "Battlefield Apostolic Church",
+    "pastor": "Rev. Nathan Forrest",
+    "address": "554 W Walnut Lawn ST, Springfield, MO, 65807, USA",
+    "lat": 37.1518251,
+    "lng": -93.2993197
+  },
+  {
+    "name": "Beckwith Apostolic Church",
+    "pastor": "Rev. Robert Ayers II",
+    "address": "4033 Beckwith RD, Fayetteville, WV, 25840, USA",
+    "lat": 38.0918267,
+    "lng": -81.1372152
+  },
+  {
+    "name": "Bedford Pentecostal Church",
+    "pastor": "Rev. Nicholas Isaacs",
+    "address": "905 Highway 421 W, Bedford, KY, 40006, USA",
+    "lat": 38.5846086,
+    "lng": -85.308465
+  },
+  {
+    "name": "Belfair Apostolic Church",
+    "pastor": "Rev. Ryan Barnett",
+    "address": "22871 State HWY 3, Belfair, WA, 98528, USA",
+    "lat": 47.4386288,
+    "lng": -122.8360289
+  },
+  {
+    "name": "Believe Church",
+    "pastor": "Rev. Robert Velasco",
+    "address": "2160 Jensen AVE, Sanger, CA, 93657, USA",
+    "lat": 36.7069443,
+    "lng": -119.5677899
+  },
+  {
+    "name": "Bethel Apostolic Tabernacle Of Buchanan",
+    "pastor": "Rev. Paul Deeds",
+    "address": "945 Chippewa ST, Buchanan, MI, 49107, USA",
+    "lat": 41.8382922,
+    "lng": -86.3705738
+  },
+  {
+    "name": "Bethel Pentecostal Church",
+    "pastor": "Rev. Aaron Henson",
+    "address": "3511 Mesker Park DR, Evansville, IN, 47720, USA",
+    "lat": 38.0123819,
+    "lng": -87.6119281
+  },
+  {
+    "name": "Bible Pentecostal Church",
+    "pastor": "Rev. Rick Bray",
+    "address": "216 13th AVE S STE C, Nampa, ID, 83651, USA",
+    "lat": 43.5767006,
+    "lng": -116.5599961
+  },
+  {
+    "name": "Bluefield Apostolic Church",
+    "pastor": "Rev. Michael Carter",
+    "address": "4735 E Cumberland RD, Bluefield, WV, 24701, USA",
+    "lat": 37.2702153,
+    "lng": -81.17313279999999
+  },
+  {
+    "name": "Calvary Apostolic Church",
+    "pastor": "Rev. David Henderson",
+    "address": "2112 Northaven DR, Kennett, MO, 63857, USA",
+    "lat": 36.2601815,
+    "lng": -90.0280835
+  },
+  {
+    "name": "Calvary Apostolic Church Of Bradenton",
+    "pastor": "Rev. Darren Parker",
+    "address": "4200 32nd ST W, Bradenton, FL, 34205, USA",
+    "lat": 27.4641898,
+    "lng": -82.5941493
+  },
+  {
+    "name": "Calvary Apostolic Church Of Wahpeton",
+    "pastor": "Rev. Timothy Redlin",
+    "address": "1603 4th ST N, Wahpeton, ND, 58075, USA",
+    "lat": 46.2827721,
+    "lng": -96.6058927
+  },
+  {
+    "name": "Calvary Pentecostal Church",
+    "pastor": "Rev. Bobby Helms",
+    "address": "13 S Haver ST, Hartford, MI, 49057, USA",
+    "lat": 42.20608120000001,
+    "lng": -86.1652708
+  },
+  {
+    "name": "Calvary Pentecostal Church Of Jeanerette",
+    "pastor": "Rev. Joseph Adams",
+    "address": "12310 US-90, Jeanerette, LA, 70544, USA",
+    "lat": 29.888182,
+    "lng": -91.6794408
+  },
+  {
+    "name": "Calvary Pentecostal Church Of San Jose",
+    "pastor": "Rev. Danny Garcia",
+    "address": "998 Lincoln AVE, San Jose, CA, 95126, USA",
+    "lat": 37.3128987,
+    "lng": -121.9042054
+  },
+  {
+    "name": "Calvarys Hill Pentecostal Church",
+    "pastor": "Rev. Benny Dodson",
+    "address": "4199 Mount Olivet RD, Martinsville, VA, 24112, USA",
+    "lat": 36.706974,
+    "lng": -79.8239684
+  },
+  {
+    "name": "Changing Lives Tabernacle",
+    "pastor": "Rev. Michael Miller",
+    "address": "202 4th AVE E, West Fargo, ND, 58078, USA",
+    "lat": 46.8729735,
+    "lng": -96.8976605
+  },
+  {
+    "name": "Cheyenne Apostolic Church",
+    "pastor": "Rev. Steven Keith",
+    "address": "4406 E 14th ST, Cheyenne, WY, 82001, USA",
+    "lat": 41.1390166,
+    "lng": -104.7560433
+  },
+  {
+    "name": "Christ Center Pentecostal Church",
+    "pastor": "Rev. Scott Smith",
+    "address": "4199 Mount Olivet RD, Martinsville, VA, 24112, USA",
+    "lat": 36.706974,
+    "lng": -79.8239684
+  },
+  {
+    "name": "Christ Temple Pentecostal Church",
+    "pastor": "Rev. Zachary Wells",
+    "address": "2150 N 1st ST, Jena, LA, 71342, USA",
+    "lat": 31.6940071,
+    "lng": -92.1324039
+  },
+  {
+    "name": "Christian Growth Center",
+    "pastor": "Rev. Paul Elder",
+    "address": "1906 N Hudson AVE, Pueblo, CO, 81001, USA",
+    "lat": 38.2856387,
+    "lng": -104.596579
+  },
+  {
+    "name": "Christian Life Church Memphis",
+    "pastor": "Rev. Caleb Adams",
+    "address": "9375 Davies Plantation RD, Bartlett, TN, 38133, USA",
+    "lat": 35.2171578,
+    "lng": -89.7501264
+  },
+  {
+    "name": "Christian Life Church Of Greeley",
+    "pastor": "Rev. Jeffrey Elder",
+    "address": "3615 23rd AVE, Evans, CO, 80620, USA",
+    "lat": 40.3790349,
+    "lng": -104.7158417
+  },
+  {
+    "name": "Christian Life Tabernacle",
+    "pastor": "Rev. Richard Fishburn",
+    "address": "943 Swan ST, Huntington, IN, 46750, USA",
+    "lat": 40.8891415,
+    "lng": -85.47414529999999
+  },
+  {
+    "name": "Church Of Pentecost",
+    "pastor": "Rev. Ricardo Rodriguez",
+    "address": "4012 Cookeville Highway, Cookeville, TN, 38506, USA",
+    "lat": 36.2654222,
+    "lng": -85.3913323
+  },
+  {
+    "name": "Compton Family Center",
+    "pastor": "Rev. Raymond Jackson",
+    "address": "1220 E Rosecrans AVE, Compton, CA, 90221, USA",
+    "lat": 33.9034207,
+    "lng": -118.2241222
+  },
+  {
+    "name": "Cornerstone Apostolic Church Of Farmington",
+    "pastor": "Rev. Michael Brixner",
+    "address": "3030 E Main ST STE A5, Farmington, NM, 87402, USA",
+    "lat": 36.7477388,
+    "lng": -108.1657445
+  },
+  {
+    "name": "Cornerstone Apostolic Church Of Princeton",
+    "pastor": "Rev. Tim Waser",
+    "address": "114 Bella DR, Princeton, WV, 24739, USA",
+    "lat": 37.3635317,
+    "lng": -81.1070857
+  },
+  {
+    "name": "Cornerstone Apostolic Church of the Tri Cities",
+    "pastor": "Rev. Daniel Chiavaras",
+    "address": "913 W Sylvester ST, Pasco, WA, 99301, USA",
+    "lat": 46.2342869,
+    "lng": -119.1015314
+  },
+  {
+    "name": "Cornerstone Pentecostal Church",
+    "pastor": "Rev. Rick Mayo",
+    "address": "21326 E Mission AVE, Liberty Lake, WA, 99019, USA",
+    "lat": 47.6717303,
+    "lng": -117.1179485
+  },
+  {
+    "name": "Cornerstone Pentecostal Church",
+    "pastor": "Rev. Edward Seabrooks",
+    "address": "115 Jennifer DR, Bainbridge, GA, 39817, USA",
+    "lat": 30.9289399,
+    "lng": -84.62218089999999
+  },
+  {
+    "name": "Cornerstone Revival Center",
+    "pastor": "Rev. Greg Wilbanks",
+    "address": "3151 AL-69, Cullman, AL, 35058, USA",
+    "lat": 34.218687,
+    "lng": -86.757049
+  },
+  {
+    "name": "Day Of Pentecost Church",
+    "pastor": "Rev. Gregory Melancon",
+    "address": "6068 S Western AVE, Oklahoma City, OK, 73139, USA",
+    "lat": 35.4041284,
+    "lng": -97.5293578
+  },
+  {
+    "name": "East Bay Bible Fellowship",
+    "pastor": "Rev. Isaac Hernandez",
+    "address": "2167 Harbor Bay PKWY, Alameda, CA, 94502, USA",
+    "lat": 37.728867,
+    "lng": -122.247116
+  },
+  {
+    "name": "Eastwind Apostolic Church",
+    "pastor": "Rev. Corey Granger",
+    "address": "2510 E Oakland AVE, Johnson City, TN, 37601, USA",
+    "lat": 36.3572824,
+    "lng": -82.3639705
+  },
+  {
+    "name": "Edinburgh Apostolic Tabernacle",
+    "pastor": "Rev. Jason Vanlue",
+    "address": "701 S Main ST, Edinburgh, IN, 46124, USA",
+    "lat": 39.3467441,
+    "lng": -85.9679495
+  },
+  {
+    "name": "Enid Lighthouse Pentecostal Church",
+    "pastor": "Rev. Joshua Manene",
+    "address": "130 E Randolph AVE, Enid, OK, 73701, USA",
+    "lat": 36.398211,
+    "lng": -97.8769645
+  },
+  {
+    "name": "Faith Cornerstone Apostolic Pentecostal Church",
+    "pastor": "Rev. Nathaniel Urshan",
+    "address": "2574 Reges Store RD, Nashville, NC, 27856, USA",
+    "lat": 35.9914961,
+    "lng": -77.9176651
+  },
+  {
+    "name": "Faith Mountain Of The High Desert",
+    "pastor": "Rev. Andrew Chavez",
+    "address": "7900 California City BLVD, California City, CA, 93505, USA",
+    "lat": 35.1255456,
+    "lng": -117.9868137
+  },
+  {
+    "name": "Faith Mountain Pentecostal Church",
+    "pastor": "Rev. Paul Bertram",
+    "address": "9119 Dulene DR, Lakeside, CA, 92040, USA",
+    "lat": 32.8417309,
+    "lng": -116.893042
+  },
+  {
+    "name": "Faith Tabernacle Of Tomball",
+    "pastor": "Rev. Floyd Barentine",
+    "address": "9525 FM 2920 RD, Tomball, TX, 77375, USA",
+    "lat": 30.0882399,
+    "lng": -95.572013
+  },
+  {
+    "name": "Faith Tabernacle Pentecostal Church",
+    "pastor": "Rev. David Staten",
+    "address": "1703 E Donner TRL, Cottonwood, AZ, 86326, USA",
+    "lat": 34.71322190000001,
+    "lng": -112.0088395
+  },
+  {
+    "name": "Fidelity Jesus Name Church",
+    "pastor": "Rev. Randall Greenwood Sr",
+    "address": "14212 Apple RD, Diamond, MO, 64840, USA",
+    "lat": 37.0673501,
+    "lng": -94.31583970000001
+  },
+  {
+    "name": "First Apostolic Church Of Blacksburg",
+    "pastor": "Rev. Timothy Patterson",
+    "address": "553 E Cherokee ST, Blacksburg, SC, 29702, USA",
+    "lat": 35.126963,
+    "lng": -81.5041171
+  },
+  {
+    "name": "First Apostolic Church Of Bogalusa",
+    "pastor": "Rev. Colton Busby",
+    "address": "54112 Highway 60, Bogalusa, LA, 70427, USA",
+    "lat": 30.7415756,
+    "lng": -89.9942868
+  },
+  {
+    "name": "First Apostolic Church Of Escatawpa",
+    "pastor": "Rev. Rodney Livingston",
+    "address": "12250 MS-613, Moss Point, MS, 39562, USA",
+    "lat": 30.5197224,
+    "lng": -88.5486964
+  },
+  {
+    "name": "First Apostolic Church Of Florence",
+    "pastor": "Rev. Ricky James",
+    "address": "1535 HWY 469 S, Florence, MS, 39073, USA",
+    "lat": 32.0647979,
+    "lng": -90.1356655
+  },
+  {
+    "name": "First Apostolic Church Of Grenada",
+    "pastor": "Rev. Adelbert Adcock",
+    "address": "561 Futheyville RD, Grenada, MS, 38901, USA",
+    "lat": 33.7813437,
+    "lng": -89.77996759999999
+  },
+  {
+    "name": "First Apostolic Church Of Liberty",
+    "pastor": "Rev. Mike Manchester",
+    "address": "388 W Freedom DR, Liberty, MS, 39645, USA",
+    "lat": 31.1641249,
+    "lng": -90.79754199999999
+  },
+  {
+    "name": "First Apostolic Church Of Somerset",
+    "pastor": "Rev. Chad Bradley",
+    "address": "141 Forward BLVD, Somerset, PA, 15501, USA",
+    "lat": 40.0184754,
+    "lng": -79.072845
+  },
+  {
+    "name": "First Apostolic Church Of Tulsa",
+    "pastor": "Rev. Jeff Dykes",
+    "address": "6600 S 33rd W AVE, Tulsa, OK, 74132, USA",
+    "lat": 36.0678996,
+    "lng": -96.0301939
+  },
+  {
+    "name": "First Church Of Natchez",
+    "pastor": "Rev. James Johnson",
+    "address": "606 Highway 61 N, Natchez, MS, 39120, USA",
+    "lat": 31.568866,
+    "lng": -91.3352464
+  },
+  {
+    "name": "First Pentecostal Church Of Buford",
+    "pastor": "Rev. Timothy Copeland",
+    "address": "15 W Moreno ST, Buford, GA, 30518, USA",
+    "lat": 34.1189672,
+    "lng": -84.00532670000001
+  },
+  {
+    "name": "First Pentecostal Church Of Chalmette",
+    "pastor": "Rev. M Otto Martin III",
+    "address": "2015 Palmisano BLVD, Chalmette, LA, 70043, USA",
+    "lat": 29.9316276,
+    "lng": -89.95535
+  },
+  {
+    "name": "First Pentecostal Church Of Crossett",
+    "pastor": "Rev. Keith Smith",
+    "address": "102 Etheridge ST, Crossett, AR, 71635, USA",
+    "lat": 33.1641182,
+    "lng": -91.94294800000002
+  },
+  {
+    "name": "First Pentecostal Church Of Durham",
+    "pastor": "Rev. Nathaniel Urshan",
+    "address": "2008 W Carver ST, Durham, NC, 27705, USA",
+    "lat": 36.04054199999999,
+    "lng": -78.9170226
+  },
+  {
+    "name": "First Pentecostal Church Of Edwardsburg",
+    "pastor": "Rev. Robert Geans Jr",
+    "address": "27341 US HWY 12 W, Edwardsburg, MI, 49112, USA",
+    "lat": 41.7951866,
+    "lng": -86.0953157
+  },
+  {
+    "name": "First Pentecostal Church Of Engelhard",
+    "pastor": "Rev. George Merrick",
+    "address": "184 Green Hill RD, Engelhard, NC, 27824, USA",
+    "lat": 35.4937756,
+    "lng": -76.0366942
+  },
+  {
+    "name": "First Pentecostal Church Of Gary",
+    "pastor": "Rev. Henry Hammersten",
+    "address": "2431 Central DR, Gary, IN, 46407, USA",
+    "lat": 41.5790542,
+    "lng": -87.3056321
+  },
+  {
+    "name": "First Pentecostal Church Of Grove",
+    "pastor": "Rev. Scott Greenwood",
+    "address": "240 E 3rd ST UNIT B, Grove, OK, 74344, USA",
+    "lat": 36.5930345,
+    "lng": -94.7644215
+  },
+  {
+    "name": "First Pentecostal Church Of Houma",
+    "pastor": "Rev. Michael Kenney Jr",
+    "address": "1226 Barrow ST, Houma, LA, 70360, USA",
+    "lat": 29.5859992,
+    "lng": -90.7212706
+  },
+  {
+    "name": "First Pentecostal Church Of Jennings",
+    "pastor": "Rev. James Townley",
+    "address": "1715 N State ST, Jennings, LA, 70546, USA",
+    "lat": 30.2385089,
+    "lng": -92.6572747
+  },
+  {
+    "name": "First Pentecostal Church Of Kansas City",
+    "pastor": "Rev. Rodney Betts",
+    "address": "14800 NW Tiffany Park RD, Kansas City, MO, 64153, USA",
+    "lat": 39.255534,
+    "lng": -94.7522687
+  },
+  {
+    "name": "First Pentecostal Church Of Knox",
+    "pastor": "Rev. Jerry Patrick",
+    "address": "509 S Roosevelt RD, Knox, IN, 46534, USA",
+    "lat": 41.2919544,
+    "lng": -86.630994
+  },
+  {
+    "name": "First Pentecostal Church Of Mantachie",
+    "pastor": "Rev. Chris Holder",
+    "address": "3031 Highway 371 N, Mantachie, MS, 38855, USA",
+    "lat": 34.31630920000001,
+    "lng": -88.4960531
+  },
+  {
+    "name": "First Pentecostal Church Of Moss Point",
+    "pastor": "Rev. Timothy Mains",
+    "address": "5414 Kings RD, Moss Point, MS, 39563, USA",
+    "lat": 30.4722226,
+    "lng": -88.51833649999999
+  },
+  {
+    "name": "First Pentecostal Church Of Orange Grove",
+    "pastor": "Rev. Jerome L Guillotte",
+    "address": "11317 Old Highway 49, Gulfport, MS, 39503, USA",
+    "lat": 30.4503029,
+    "lng": -89.10435269999999
+  },
+  {
+    "name": "First Pentecostal Church Of Oxford",
+    "pastor": "Rev. John Vanderford",
+    "address": "4999 S Lamar BLVD, Oxford, MS, 38655, USA",
+    "lat": 34.3214471,
+    "lng": -89.5233636
+  },
+  {
+    "name": "First Pentecostal Church Of Prairie County",
+    "pastor": "Rev. Luke Neumann",
+    "address": "3201 Old Highway 70, Hazen, AR, 72064, USA",
+    "lat": 34.7736347,
+    "lng": -91.5235728
+  },
+  {
+    "name": "First Pentecostal Church Of Rusk",
+    "pastor": "Rev. Keith Brooks",
+    "address": "2230 FM 1248 S, Rusk, TX, 75785, USA",
+    "lat": 31.788236,
+    "lng": -95.215092
+  },
+  {
+    "name": "First Pentecostal Church Of Scott",
+    "pastor": "Rev. Johnathan Howell",
+    "address": "908 Cayret ST, Scott, LA, 70583, USA",
+    "lat": 30.23408479999999,
+    "lng": -92.0955166
+  },
+  {
+    "name": "First Pentecostal Church Of Springfield",
+    "pastor": "",
+    "address": "1968 Phillips RD Nixa, MO 65714",
+    "lat": 37.0863344,
+    "lng": -93.35248659999999
+  },
+  {
+    "name": "First Pentecostal Church Of Sulphur",
+    "pastor": "Rev. Harlan Morgan",
+    "address": "606 W Parish RD, Sulphur, LA, 70663, USA",
+    "lat": 30.2234883,
+    "lng": -93.3818402
+  },
+  {
+    "name": "First Pentecostal Church Of Sumrall",
+    "pastor": "Rev. Clint Bourn",
+    "address": "788 Highway 42 W, Sumrall, MS, 39482, USA",
+    "lat": 31.4098252,
+    "lng": -89.57660659999999
+  },
+  {
+    "name": "First Pentecostal Church Of Thomaston",
+    "pastor": "Rev. Leroy Brock",
+    "address": "3409 Narnesville HWY, Thomaston, GA, 30286, USA",
+    "lat": 32.9348605,
+    "lng": -84.2590791
+  },
+  {
+    "name": "First Pentecostal Church Of Titusville",
+    "pastor": "Rev. Jonathan Coffey",
+    "address": "564 W Park AVE, Titusville, PA 16354",
+    "lat": 41.6367955,
+    "lng": -79.68425950000001
+  },
+  {
+    "name": "First Pentecostal Church Of Union City",
+    "pastor": "Rev. Dwayne Uzzle",
+    "address": "2501 W Main ST, Union City, TN, 38261, USA",
+    "lat": 36.4334566,
+    "lng": -89.0852685
+  },
+  {
+    "name": "First Pentecostal Church Of Vicksburg",
+    "pastor": "Rev. Dathan Tipton",
+    "address": "6541 Paxton RD, Vicksburg, MS, 39180, USA",
+    "lat": 32.3355012,
+    "lng": -90.8266708
+  },
+  {
+    "name": "Fountain Of Truth",
+    "pastor": "Rev. Dale Talbot",
+    "address": "202 7th AVE, Colona, IL, 61241, USA",
+    "lat": 41.473159,
+    "lng": -90.36000159999999
+  },
+  {
+    "name": "Freetown Apostolic Pentecostal Church",
+    "pastor": "Rev. Ben McCory",
+    "address": "6892 N Hayes AVE, Freetown, IN, 47235, USA",
+    "lat": 38.9752511,
+    "lng": -86.1245268
+  },
+  {
+    "name": "Gospel Life Church",
+    "pastor": "Rev. Vaughn Reece",
+    "address": "982 Arcadia RD SE, Shelton, WA, 98584, USA",
+    "lat": 47.1965556,
+    "lng": -123.0725796
+  },
+  {
+    "name": "Grace Apostolic Tabernacle",
+    "pastor": "Rev. Michael Mead",
+    "address": "02401 67th ST, South Haven, MI, 49090, USA",
+    "lat": 42.4107467,
+    "lng": -86.1966142
+  },
+  {
+    "name": "Grand View Pentecostal Church",
+    "pastor": "Rev. Randy Fries",
+    "address": "2964 I-70BL, Grand Junction, CO, 81504, USA",
+    "lat": 39.0759657,
+    "lng": -108.5037787
+  },
+  {
+    "name": "Greater Apostolic Church Of Eros",
+    "pastor": "Rev. Michael Morgan",
+    "address": "7564 Highway 34, Eros, LA, 71238, USA",
+    "lat": 32.3294785,
+    "lng": -92.4345544
+  },
+  {
+    "name": "Greater Bakersfield's First Pentecostal Church",
+    "pastor": "Rev. Kevin Bradford",
+    "address": "1418 W Columbus ST, Bakersfield, CA, 93301, USA",
+    "lat": 35.399488,
+    "lng": -119.0171059
+  },
+  {
+    "name": "Greater Life Apostolic Church",
+    "pastor": "Rev. Ted Strain",
+    "address": "217 Matthews RD, Carriere, MS, 39426, USA",
+    "lat": 30.5760271,
+    "lng": -89.6306742
+  },
+  {
+    "name": "Greater Life Apostolic Church Of South Lake Charle",
+    "pastor": "Rev. Trevor Kelley",
+    "address": "9039 Gulf HWY, Lake Charles, LA, 70607, USA",
+    "lat": 30.0770072,
+    "lng": -93.2124365
+  },
+  {
+    "name": "Greater Life Fellowship",
+    "pastor": "Rev. Daniel Decker",
+    "address": "4588 AL-205, Albertville, AL, 35950, USA",
+    "lat": 34.293026,
+    "lng": -86.28448209999999
+  },
+  {
+    "name": "Harvest Apostolic Tabernacle",
+    "pastor": "Rev. Todd Compton",
+    "address": "993 Kents Ridge RD, Richlands, VA, 24641, USA",
+    "lat": 37.0822452,
+    "lng": -81.8127341
+  },
+  {
+    "name": "Harvest Pentecostal Church",
+    "pastor": "Rev. Mike Stocks",
+    "address": "1027 N NC HWY 109, Thomasville, NC, 27360, USA",
+    "lat": 35.9123714,
+    "lng": -80.1017531
+  },
+  {
+    "name": "Harvest Point Pentecostal Church",
+    "pastor": "Rev. Pete Mays",
+    "address": "2020 Sibley RD, Augusta, GA, 30909, USA",
+    "lat": 33.4603858,
+    "lng": -82.06079539999999
+  },
+  {
+    "name": "Heritage Church",
+    "pastor": "Rev. Tim Adams",
+    "address": "700 Church RD E, Southaven, MS, 38671, USA",
+    "lat": 34.9341935,
+    "lng": -89.97713159999999
+  },
+  {
+    "name": "Heritage Pentecostal Church",
+    "pastor": "Rev. Keith Abernathy",
+    "address": "1827 Road G, Emporia, KS, 66801, USA",
+    "lat": 38.4230324,
+    "lng": -96.2448768
+  },
+  {
+    "name": "High Point Family Worship Center",
+    "pastor": "Rev. Barton Adkins",
+    "address": "1207 Kensington DR, High Point, NC, 27262, USA",
+    "lat": 35.9657204,
+    "lng": -80.036785
+  },
+  {
+    "name": "Hill 53",
+    "pastor": "Rev. Gabriel Risinger",
+    "address": "202 McGill AVE NW, Concord, NC, 28025, USA",
+    "lat": 35.4173724,
+    "lng": -80.597175
+  },
+  {
+    "name": "Hilltop Tabernacle",
+    "pastor": "Rev. Joel Buxton",
+    "address": "346 L ST, Chula Vista, CA, 91911, USA",
+    "lat": 32.6198513,
+    "lng": -117.0731009
+  },
+  {
+    "name": "Hope Tabernacle Church",
+    "pastor": "Rev. Joshua Dean",
+    "address": "605 E Dixie AVE, Elizabethtown, KY, 42701, USA",
+    "lat": 37.6861193,
+    "lng": -85.85135009999999
+  },
+  {
+    "name": "House Of Praise",
+    "pastor": "Rev. George Whorley",
+    "address": "1270 Bolivia WAY, Gardnerville, NV, 89460, USA",
+    "lat": 38.905983,
+    "lng": -119.7445965
+  },
+  {
+    "name": "Iglesia Monte Carmelo",
+    "pastor": "Rev. Mario Rangel",
+    "address": "3327 Pioneer DR, Bakersfield, CA, 93306, USA",
+    "lat": 35.3684206,
+    "lng": -118.94371
+  },
+  {
+    "name": "Iglesia Nueva Vida",
+    "pastor": "Rev. Erick Rivas",
+    "address": "1750 W Holt AVE, Pomona, CA, 91768, USA",
+    "lat": 34.0609565,
+    "lng": -117.7800289
+  },
+  {
+    "name": "Inland Lighthouse Church",
+    "pastor": "Rev. Joel Booker",
+    "address": "1123 S Cactus AVE, Rialto, CA, 92376, USA",
+    "lat": 34.0805348,
+    "lng": -117.3820858
+  },
+  {
+    "name": "Inland Lighthouse Church Of West Covina",
+    "pastor": "Rev. Darnell Meyers",
+    "address": "632 S Sunset AVE, West Covina, CA, 91790, USA",
+    "lat": 34.0695613,
+    "lng": -117.9367951
+  },
+  {
+    "name": "Jefferson Pentecostal Church",
+    "pastor": "Rev. Richard Howard",
+    "address": "7299 Jefferson River RD, Athens, GA, 30607, USA",
+    "lat": 34.0476711,
+    "lng": -83.45812380000001
+  },
+  {
+    "name": "Jesus Name Apostolic Church",
+    "pastor": "Rev. Carroll Gatlin",
+    "address": "1720 US-98, Foxworth, MS, 39483, USA",
+    "lat": 31.2179882,
+    "lng": -89.8938302
+  },
+  {
+    "name": "Jesus Name Apostolic Church Of Seminary",
+    "pastor": "Rev. Tim Hopkins",
+    "address": "932 HWY 590 E, Seminary, MS, 39479, USA",
+    "lat": 31.5675012,
+    "lng": -89.42291340000001
+  },
+  {
+    "name": "Jesus Name Church Of Barton",
+    "pastor": "Rev. James Hembree",
+    "address": "3259 HWY 63 S, Lucedale, MS, 39452, USA",
+    "lat": 30.7977262,
+    "lng": -88.5980149
+  },
+  {
+    "name": "Jesus Name Lighthouse",
+    "pastor": "Rev. James Champlain",
+    "address": "7412 Van Maren LN, Citrus Heights, CA, 95621, USA",
+    "lat": 38.7009421,
+    "lng": -121.3082411
+  },
+  {
+    "name": "Jethro Pentecostal Church",
+    "pastor": "Rev. Randall Wead",
+    "address": "15363 Lower Jethro RD, Ozark, AR, 72949, USA",
+    "lat": 35.597726,
+    "lng": -93.8711264
+  },
+  {
+    "name": "La Piedra Pentecostal Church",
+    "pastor": "Rev. Osvaldo Herrera",
+    "address": "320 Harris AVE STE F, Sacramento, CA, 95838, USA",
+    "lat": 38.6382815,
+    "lng": -121.4578375
+  },
+  {
+    "name": "Landmark Apostolic Church Of Franklin",
+    "pastor": "Rev. Stephen Carson",
+    "address": "118 W 8th ST, Franklin, OH, 45005, USA",
+    "lat": 39.55572280000001,
+    "lng": -84.3102988
+  },
+  {
+    "name": "Landmark Apostolic Church Of Victoria",
+    "pastor": "Rev. Danny Allison",
+    "address": "10204 Goodman RD, Olive Branch, MS, 38654, USA",
+    "lat": 34.9628209,
+    "lng": -89.80911239999999
+  },
+  {
+    "name": "Landmark Pentecostal Church",
+    "pastor": "Rev. Leroy Young",
+    "address": "25638 County RD 120, Malden, MO, 63863, USA",
+    "lat": 36.5852093,
+    "lng": -89.9648996
+  },
+  {
+    "name": "Landmarks Apostolic Church",
+    "pastor": "Rev. Robert Edwards",
+    "address": "212 W 5th ST, Galena, MO, 65656, USA",
+    "lat": 36.8044123,
+    "lng": -93.4683711
+  },
+  {
+    "name": "Life Tabernacle Church Of Baton Rouge",
+    "pastor": "Rev. Tony Spell",
+    "address": "9323 Hooper RD, Baton Rouge, LA, 70818, USA",
+    "lat": 30.5350768,
+    "lng": -91.085343
+  },
+  {
+    "name": "Lifeway Apostolic Church",
+    "pastor": "Rev. Timothy Brady",
+    "address": "800 3rd ST STE C, Kentwood, LA 70444",
+    "lat": 30.93524099999999,
+    "lng": -90.508375
+  },
+  {
+    "name": "Light Of The World Church",
+    "pastor": "Rev. Scott Baham",
+    "address": "1519 Military RD, Bogalusa, LA, 70427, USA",
+    "lat": 30.7973936,
+    "lng": -89.8392854
+  },
+  {
+    "name": "Lighthouse Apostolic Church Of Angier",
+    "pastor": "Rev. Brian Trammell",
+    "address": "19715 NC-210, Angier, NC, 27501, USA",
+    "lat": 35.5182979,
+    "lng": -78.6890475
+  },
+  {
+    "name": "Lighthouse Apostolic Church Of Ottumwa",
+    "pastor": "Rev. Andrew Bob",
+    "address": "225 N Moore ST, Ottumwa, IA, 52501, USA",
+    "lat": 41.0057514,
+    "lng": -92.4202894
+  },
+  {
+    "name": "Lighthouse Apostolic Pentecostal Church",
+    "pastor": "Rev. John Teeples",
+    "address": "11192 Harrison RD, Lester, AL, 35647, USA",
+    "lat": 34.9493486,
+    "lng": -87.1178181
+  },
+  {
+    "name": "Lighthouse Christian Center",
+    "pastor": "Rev. Sherwood Behm",
+    "address": "37 S 5th ST, Reading, PA, 19602, USA",
+    "lat": 40.33392389999999,
+    "lng": -75.9274073
+  },
+  {
+    "name": "Lighthouse Pentecostal Church",
+    "pastor": "Rev. James Parker",
+    "address": "10501 W 1st ST, Island City, OR, 97850, USA",
+    "lat": 45.3405326,
+    "lng": -118.0502138
+  },
+  {
+    "name": "Lighthouse Pentecostal Church",
+    "pastor": "Rev. Craig Warneking",
+    "address": "2616 W 10th ST, The Dalles, OR, 97058, USA",
+    "lat": 45.6133188,
+    "lng": -121.2198394
+  },
+  {
+    "name": "Lighthouse Pentecostal Church",
+    "pastor": "Rev. Jason Scheel",
+    "address": "505 N Apple ST, Beebe, AR, 72012, USA",
+    "lat": 35.0795885,
+    "lng": -91.87350459999999
+  },
+  {
+    "name": "Lighthouse Tabernacle",
+    "pastor": "Rev. Jerry Miles",
+    "address": "500 N Armstrong ST, Crothersville, IN, 47229, USA",
+    "lat": 38.8009163,
+    "lng": -85.84379109999999
+  },
+  {
+    "name": "Lighthouse Tabernacle Of Washington",
+    "pastor": "Rev. Les Meadows",
+    "address": "2322 Washington RD, Washington, IL, 61571, USA",
+    "lat": 40.6933783,
+    "lng": -89.4855371
+  },
+  {
+    "name": "Live Oak Apostolic Church",
+    "pastor": "Rev. Patrick Wollerson",
+    "address": "36109 LA HWY 16, Denham Springs, LA, 70706, USA",
+    "lat": 30.59222219999999,
+    "lng": -90.94922439999999
+  },
+  {
+    "name": "Living Water Apostolic Church",
+    "pastor": "Rev. Bobby Thomas",
+    "address": "44 Allen RD, Sanford, NC, 28322, USA",
+    "lat": 35.3152535,
+    "lng": -79.0785288
+  },
+  {
+    "name": "Living Word Apostolic Church",
+    "pastor": "Rev. Charles Sefcik",
+    "address": "1406 2nd ST NW STE 300, Mandan, ND, 58554, USA",
+    "lat": 46.8272437,
+    "lng": -100.910659
+  },
+  {
+    "name": "Logan Lighthouse Church",
+    "pastor": "Rev. Milton Libokmeto",
+    "address": "56 E 700 N, Logan, UT, 84321, USA",
+    "lat": 41.7445053,
+    "lng": -111.8332073
+  },
+  {
+    "name": "Manhattan Apostolic Church",
+    "pastor": "Rev. Richard Ramirez",
+    "address": "740 E 6th ST, New York, NY, 10009, USA",
+    "lat": 40.7227469,
+    "lng": -73.97784949999999
+  },
+  {
+    "name": "Midway Pentecostal Church",
+    "pastor": "Rev. James Merritt",
+    "address": "21712 HWY 8 W, Jena, LA, 71342, USA",
+    "lat": 31.6782623,
+    "lng": -92.15550329999999
+  },
+  {
+    "name": "Mundo Pentecostal",
+    "pastor": "Rev. Florencio Lopez",
+    "address": "315 Spence ST, Burlington, NC, 27217, USA",
+    "lat": 36.1068073,
+    "lng": -79.4484499
+  },
+  {
+    "name": "Nettleton Church Of Jesus Christ",
+    "pastor": "Rev. Scott Kitchens",
+    "address": "155 Metts RD, Nettleton, MS, 38858, USA",
+    "lat": 34.0743169,
+    "lng": -88.62795899999999
+  },
+  {
+    "name": "New Life Apostolic Church",
+    "pastor": "Rev. Josh Hoss",
+    "address": "2157 US-51, Summit, MS, 39666, USA",
+    "lat": 31.3199504,
+    "lng": -90.4694476
+  },
+  {
+    "name": "New Life Apostolic Church Of Carmi",
+    "pastor": "Rev. Richard Giles",
+    "address": "215 Industrial AVE, Carmi, IL, 62821, USA",
+    "lat": 38.0790121,
+    "lng": -88.1905853
+  },
+  {
+    "name": "New Life Apostolic Church Of Clinton",
+    "pastor": "Rev. Wesley Norris",
+    "address": "198 Richard RD, Clinton, AR, 72031, USA",
+    "lat": 35.557991,
+    "lng": -92.4476664
+  },
+  {
+    "name": "New Life Carrollton",
+    "pastor": "Rev. Fernando Cardenas",
+    "address": "2035 W Highway 166, Carrollton, GA, 30117, USA",
+    "lat": 33.5430557,
+    "lng": -85.30242919999999
+  },
+  {
+    "name": "New Life Church",
+    "pastor": "Rev. Stephen Collins",
+    "address": "400 Roebuck PKWY, Birmingham, AL, 35206, USA",
+    "lat": 33.5846113,
+    "lng": -86.6987482
+  },
+  {
+    "name": "New Life Church Of Ball",
+    "pastor": "Rev. Darian Hosch",
+    "address": "296 Highway 1204, Ball, LA, 71405, USA",
+    "lat": 31.415899,
+    "lng": -92.41491909999999
+  },
+  {
+    "name": "New Life Church Of Colfax",
+    "pastor": "Rev. Haley Smith",
+    "address": "510 Main ST, Colfax, LA, 71417, USA",
+    "lat": 31.5177128,
+    "lng": -92.7095282
+  },
+  {
+    "name": "New Life Pentecostal Church",
+    "pastor": "Rev. Robert Simons",
+    "address": "501 Elks DR, Dickinson, ND, 58601, USA",
+    "lat": 46.8972548,
+    "lng": -102.7956032
+  },
+  {
+    "name": "New Life Pentecostal Church",
+    "pastor": "Rev. Aaron Dansby",
+    "address": "1983 Willow LN, Grants Pass, OR, 97527, USA",
+    "lat": 42.4160399,
+    "lng": -123.3757263
+  },
+  {
+    "name": "New Life Saskatoon",
+    "pastor": "Rev. Thomas Dehod",
+    "address": "143 Wedge RD, Saskatoon, SK, S7L 6P9, Canada",
+    "lat": 52.14563649999999,
+    "lng": -106.7274017
+  },
+  {
+    "name": "New Life Tabernacle Of Carmel",
+    "pastor": "Rev. Ryan Wardwell",
+    "address": "9650 Commerce DR, Carmel, IN, 46032, USA",
+    "lat": 39.928088,
+    "lng": -86.2257106
+  },
+  {
+    "name": "New Life Tabernacle Of Murphysboro",
+    "pastor": "Rev. Larry Worthen",
+    "address": "446 E Harrison RD, Murphysboro, IL, 62966, USA",
+    "lat": 37.7963465,
+    "lng": -89.325077
+  },
+  {
+    "name": "New Life Tabernacle Of Sand Springs",
+    "pastor": "Rev. Steven Jones",
+    "address": "13107 W 41st ST S, Sand Springs, OK, 74063, USA",
+    "lat": 36.1048804,
+    "lng": -96.2686166
+  },
+  {
+    "name": "Northwest Apostolic Church",
+    "pastor": "Rev. Joshua Winkler",
+    "address": "11617 W Grand AVE, El Mirage, AZ, 85335, USA",
+    "lat": 33.6253194,
+    "lng": -112.3331966
+  },
+  {
+    "name": "Oak Grove Pentecostal Church",
+    "pastor": "Rev. Bobby Ratcliff",
+    "address": "124 Thames Nelson RD, Jayess, MS, 39641, USA",
+    "lat": 31.4708565,
+    "lng": -90.2067883
+  },
+  {
+    "name": "Oakland Tabernacle",
+    "pastor": "Rev. Ryan Caputo",
+    "address": "5201 Hillen DR, Oakland, CA, 94619, USA",
+    "lat": 37.7766697,
+    "lng": -122.1952473
+  },
+  {
+    "name": "Oretta Pentecostal Church",
+    "pastor": "Rev. Dustyn Rose",
+    "address": "185 Missouri ST, Singer, LA, 70660, USA",
+    "lat": 30.5276965,
+    "lng": -93.440095
+  },
+  {
+    "name": "Pentecostal Gospel Lighthouse",
+    "pastor": "Rev. Phillip Davidson",
+    "address": "305 N Bryan ST, DeRidder, LA, 70634, USA",
+    "lat": 30.8494013,
+    "lng": -93.29635359999999
+  },
+  {
+    "name": "Pentecostal Tabernacle Church",
+    "pastor": "Rev. Rick Strain",
+    "address": "3612 Spring AVE SW, Decatur, AL, 35603, USA",
+    "lat": 34.5408982,
+    "lng": -86.99960809999999
+  },
+  {
+    "name": "Pentecostals Of Hattiesburg",
+    "pastor": "Rev. Andrew Howard",
+    "address": "7179 US Highway 49, Hattiesburg, MS, 39402, USA",
+    "lat": 31.3847518,
+    "lng": -89.3724773
+  },
+  {
+    "name": "Porter Apostolic Pentecostal Church",
+    "pastor": "Rev. Joel McCoy",
+    "address": "24142 LOOP 494, Porter, TX, 77365, USA",
+    "lat": 30.0969525,
+    "lng": -95.23183910000002
+  },
+  {
+    "name": "Praise Apostolic Tabernacle",
+    "pastor": "Rev. Tim Taylor",
+    "address": "1311 HWY 51, Winona, MS, 38967, USA",
+    "lat": 33.5069612,
+    "lng": -89.7361986
+  },
+  {
+    "name": "Primera Iglesia Pentecostal De Oakwood",
+    "pastor": "Rev. Joel Quintanar",
+    "address": "4805 Flat Creek RD, Oakwood, GA, 30566, USA",
+    "lat": 34.233234,
+    "lng": -83.90303970000001
+  },
+  {
+    "name": "Promiseland Apostolic Church",
+    "pastor": "Rev. Marty Swanner",
+    "address": "15823 HWY 37 S, Taylorsville, MS, 39168, USA",
+    "lat": 31.8059941,
+    "lng": -89.43112049999999
+  },
+  {
+    "name": "Pulaski Apostolic Church",
+    "pastor": "Rev. Max Doty",
+    "address": "4959 Old Robinson Tract , RD, Pulaski, VA, 24301, USA",
+    "lat": 37.077527,
+    "lng": -80.77963900000002
+  },
+  {
+    "name": "Queen City Apostolic Church",
+    "pastor": "Rev. Keith Smith",
+    "address": "4530 N Sharon Amity RD, Charlotte, NC, 28205, USA",
+    "lat": 35.2210385,
+    "lng": -80.751018
+  },
+  {
+    "name": "River Of Life Bay City",
+    "pastor": "Rev. Brandon Bechert",
+    "address": "2884 E North Union RD, Bay City, MI, 48706, USA",
+    "lat": 43.6089314,
+    "lng": -83.9367941
+  },
+  {
+    "name": "Roxboro First Pentecostal Church",
+    "pastor": "Rev. Nathan Morgan",
+    "address": "707 N Main ST, Roxboro, NC, 27573, USA",
+    "lat": 36.3837506,
+    "lng": -78.9882999
+  },
+  {
+    "name": "Sanctuary Of Praise",
+    "pastor": "Rev. Steven Malone",
+    "address": "1801 130th AVE NE STE 100, Bellevue, WA, 98005, USA",
+    "lat": 47.6267823,
+    "lng": -122.1694444
+  },
+  {
+    "name": "Sanctuary Of Truth",
+    "pastor": "Rev. Memphus Kast II",
+    "address": "1080 N Main ST NW, Lenoir, NC, 28645, USA",
+    "lat": 35.9244337,
+    "lng": -81.54555479999999
+  },
+  {
+    "name": "Seymour Christ Temple",
+    "pastor": "Rev. Dennis Allman II",
+    "address": "607 Euclid AVE, Seymour, IN, 47274, USA",
+    "lat": 38.9574617,
+    "lng": -85.8808239
+  },
+  {
+    "name": "Solid Rock Apostolic Pentecostal Church",
+    "pastor": "Rev. Johnnie Giles",
+    "address": "1935 Matthews RD, Lillington, NC, 27546, USA",
+    "lat": 35.44715,
+    "lng": -78.7974452
+  },
+  {
+    "name": "Solid Rock Pentecostal Church",
+    "pastor": "Rev. Talor Strain",
+    "address": "322 Quitman LN NW, Brookhaven, MS, 39601, USA",
+    "lat": 31.5294161,
+    "lng": -90.54360179999999
+  },
+  {
+    "name": "Soul's Harbor Of Calhoun",
+    "pastor": "Rev. Julien Ryder",
+    "address": "113 Slocum RD, Calhoun, LA, 71225, USA",
+    "lat": 32.524313,
+    "lng": -92.265923
+  },
+  {
+    "name": "Spirit And Truth Apostolic Church",
+    "pastor": "Rev. Chris Brehm",
+    "address": "1018 Cedar ST, De Pere, WI, 54115, USA",
+    "lat": 44.4544242,
+    "lng": -88.0848666
+  },
+  {
+    "name": "Spokane Lighthouse Church",
+    "pastor": "Rev. Matthias Manene",
+    "address": "950 S Ash St APT 302, Spokane, WA, 99204, USA",
+    "lat": 47.6466704,
+    "lng": -117.4374017
+  },
+  {
+    "name": "Summit Church",
+    "pastor": "Rev. Shane Golden",
+    "address": "1390 E Tabor AVE, Fairfield, CA, 94533, USA",
+    "lat": 38.26535519999999,
+    "lng": -122.0039656
+  },
+  {
+    "name": "Tabernaculo De Vida",
+    "pastor": "Rev. Jesse Galindo",
+    "address": "2125 E Geer ST, Durham, NC, 27704, USA",
+    "lat": 36.0232768,
+    "lng": -78.84758529999999
+  },
+  {
+    "name": "The Apostolics Of Rutherford County",
+    "pastor": "Rev. Austin Burke",
+    "address": "864 Bostic Sunshine Highway, Bostic, NC, 28018, USA",
+    "lat": 35.353867,
+    "lng": -81.8369937
+  },
+  {
+    "name": "The Granary Church",
+    "pastor": "Rev. Jake Dodge",
+    "address": "1904 8th ST, Bremerton, WA, 98337, USA",
+    "lat": 47.5690075,
+    "lng": -122.6435318
+  },
+  {
+    "name": "The North State Pentecostals",
+    "pastor": "Rev. Nathan Cox",
+    "address": "1500 S Jackson ST, Red Bluff, CA, 96080, USA",
+    "lat": 40.156682,
+    "lng": -122.2389057
+  },
+  {
+    "name": "The Pendleton Lighthouse Church",
+    "pastor": "Rev. Dan Satterwhite",
+    "address": "417 NW 21st ST, Pendleton, OR, 97801, USA",
+    "lat": 45.6751831,
+    "lng": -118.8085402
+  },
+  {
+    "name": "The Pentecostal Church",
+    "pastor": "Rev. Johnny Lajie",
+    "address": "1006 N Thompson ST, Springdale, AR, 72764, USA",
+    "lat": 36.1945924,
+    "lng": -94.1387649
+  },
+  {
+    "name": "The Pentecostal Church Of Santa Maria",
+    "pastor": "Rev. Jeff Mercer",
+    "address": "314 W Main ST, Santa Maria, CA, 93458, USA",
+    "lat": 34.9529216,
+    "lng": -120.439744
+  },
+  {
+    "name": "The Pentecostals Of Carrollton",
+    "pastor": "Rev. Ronald Tiller",
+    "address": "220 Port William LN, Carrollton, KY, 41008, USA",
+    "lat": 38.6821816,
+    "lng": -85.1646404
+  },
+  {
+    "name": "The Pentecostals Of Rosenberg",
+    "pastor": "Rev. Benjamin Davis",
+    "address": "2520 Bamore RD, Rosenberg, TX, 77471, USA",
+    "lat": 29.5413948,
+    "lng": -95.82272880000001
+  },
+  {
+    "name": "The Potter's House Apostolic Church",
+    "pastor": "Rev. Troy White",
+    "address": "9516 Robison CT, Fort Smith, AR, 72916, USA",
+    "lat": 35.2381194,
+    "lng": -94.3301211
+  },
+  {
+    "name": "The Rock Central Valley",
+    "pastor": "Rev. Kasey Sees",
+    "address": "201 S Laurel ST, Turlock, CA, 95382, USA",
+    "lat": 37.4916236,
+    "lng": -120.8517571
+  },
+  {
+    "name": "The Rock Church",
+    "pastor": "Rev. Myles Young",
+    "address": "8520 Bradshaw RD, Elk Grove, CA, 95624, USA",
+    "lat": 38.4480448,
+    "lng": -121.3361004
+  },
+  {
+    "name": "The Rock Church",
+    "pastor": "Rev. John McMillan",
+    "address": "2880 SW 4th AVE STE 12, Ontario, OR, 97914, USA",
+    "lat": 44.0245942,
+    "lng": -117.003468
+  },
+  {
+    "name": "The Rock Church North",
+    "pastor": "Rev. Anthony Pizarro",
+    "address": "327 Elefa ST, Roseville, CA, 95678, USA",
+    "lat": 38.7546302,
+    "lng": -121.2899591
+  },
+  {
+    "name": "The Rock Church Of Bessemer City",
+    "pastor": "Rev. Billy Chapman",
+    "address": "4432 Kings Mountain HWY, Bessemer City, NC, 28016, USA",
+    "lat": 35.2539655,
+    "lng": -81.27766559999999
+  },
+  {
+    "name": "The Rock Church Of Fort Myers",
+    "pastor": "Rev. Randy Williams",
+    "address": "940 Tarpon ST, Fort Myers, FL, 33916, USA",
+    "lat": 26.6599658,
+    "lng": -81.8455609
+  },
+  {
+    "name": "The Rock Church Of Harrison",
+    "pastor": "Rev. David Morrison",
+    "address": "2933 Center LOOP, Harrison, AR, 72601, USA",
+    "lat": 36.3386176,
+    "lng": -93.20373060000001
+  },
+  {
+    "name": "The Rock Church Of Laurel",
+    "pastor": "Rev. Jerry Rowley Jr",
+    "address": "635 Highway 15 S, Laurel, MS, 39443, USA",
+    "lat": 31.6762845,
+    "lng": -89.10973829999999
+  },
+  {
+    "name": "The Rock Church Of Morganton",
+    "pastor": "Rev. Micah Narlock",
+    "address": "4806 US 64, Morganton, NC, 28655, USA",
+    "lat": 35.6462854,
+    "lng": -81.77025809999999
+  },
+  {
+    "name": "The Rock Tabernacle",
+    "pastor": "Rev. Nathan Leckenby",
+    "address": "1218 Elk ST, Rock Springs, WY, 82901, USA",
+    "lat": 41.5977339,
+    "lng": -109.2306557
+  },
+  {
+    "name": "The Sanctuary Of Newport",
+    "pastor": "Rev. Ted Erskine",
+    "address": "8125 HWY 70 E, Newport, NC, 28570, USA",
+    "lat": 34.8256878,
+    "lng": -76.8773612
+  },
+  {
+    "name": "The Tabernacle",
+    "pastor": "Rev. Randall Duncan",
+    "address": "2088 S Old US Highway 41, Princeton, IN, 47670, USA",
+    "lat": 38.3550287,
+    "lng": -87.5982617
+  },
+  {
+    "name": "The Tabernacle Columbus",
+    "pastor": "Rev. Denny Felts",
+    "address": "2103 Jess Lyons RD, Columbus, MS, 39705, USA",
+    "lat": 33.5736012,
+    "lng": -88.3971102
+  },
+  {
+    "name": "The Upperroom Pentecostals",
+    "pastor": "Rev. Christopher Hodge",
+    "address": "4324 Birch ST, Lake Isabella, CA, 93240, USA",
+    "lat": 35.634938,
+    "lng": -118.4058598
+  },
+  {
+    "name": "True Life Worship Center",
+    "pastor": "Rev. Carl Clark",
+    "address": "508 N 14th AVE, Paragould, AR, 72450, USA",
+    "lat": 36.0597978,
+    "lng": -90.4684219
+  },
+  {
+    "name": "Truth Church",
+    "pastor": "Rev. Nathan Morton",
+    "address": "3870 Morrow LN, Chico, CA, 95928, USA",
+    "lat": 39.7123958,
+    "lng": -121.7903329
+  },
+  {
+    "name": "Truth Church Of Calgary",
+    "pastor": "Rev. Douglas Walker",
+    "address": "615 Northmount DR NW, Calgary, AB, T2K 3J6, Canada",
+    "lat": 51.0869074,
+    "lng": -114.0883773
+  },
+  {
+    "name": "Truth Church Of Spruce Grove",
+    "pastor": "Rev. James MacDonald",
+    "address": "221 Main ST, Spruce Grove, AB, T7X 3A6, Canada",
+    "lat": 53.5432417,
+    "lng": -113.9036174
+  },
+  {
+    "name": "Truth Church Shafter",
+    "pastor": "Rev. Frank Cabrera",
+    "address": "101 Beech AVE, Shafter, CA, 93263, USA",
+    "lat": 35.5000999,
+    "lng": -119.2612212
+  },
+  {
+    "name": "Truth Church Yucaipa",
+    "pastor": "Rev. Jonathon Walker",
+    "address": "35225 Avenue A, Yucaipa, CA, 92399, USA",
+    "lat": 34.0325245,
+    "lng": -117.0361058
+  },
+  {
+    "name": "Truth Tabernacle Apostolic Church",
+    "pastor": "Rev. Roger Egnor",
+    "address": "603 Logan ST, Williamson, WV, 25661, USA",
+    "lat": 37.6732157,
+    "lng": -82.2763794
+  },
+  {
+    "name": "Truth Tabernacle Of Pembroke",
+    "pastor": "Rev. Donnie Harris",
+    "address": "6904 Virginia AVE, Pembroke, VA, 24136, USA",
+    "lat": 37.3117952,
+    "lng": -80.5820547
+  },
+  {
+    "name": "Truth Tabernacle Pentecostal Church",
+    "pastor": "Rev. Tony Parker",
+    "address": "3025 271 ST, Aldergrove, BC, V4W 3C4, Canada",
+    "lat": 49.057523,
+    "lng": -122.4727012
+  },
+  {
+    "name": "Truthway Church",
+    "pastor": "Rev. James Merritt",
+    "address": "5521 HWY 28 E, Pineville, LA, 71360, USA",
+    "lat": 31.3529912,
+    "lng": -92.3397158
+  },
+  {
+    "name": "Truthway Church At Midway",
+    "pastor": "Rev. James Merritt",
+    "address": "21712 Highway 8 W, Jena, LA, 71342, USA",
+    "lat": 31.6782623,
+    "lng": -92.15550329999999
+  },
+  {
+    "name": "TurningPoint Apostolic Church Of Maysville",
+    "pastor": "Rev. Brian Young",
+    "address": "818 E Maple Leaf RD, Maysville, KY, 41056, USA",
+    "lat": 38.6028008,
+    "lng": -83.7669442
+  },
+  {
+    "name": "Upper Room Church",
+    "pastor": "Rev. Michael Brewer",
+    "address": "1405 Armstrong Ford RD, Belmont, NC, 28012, USA",
+    "lat": 35.2158006,
+    "lng": -81.0632933
+  },
+  {
+    "name": "Vertical Life Church",
+    "pastor": "Rev. W D Hilton",
+    "address": "2830 McGavock PIKE, Nashville, TN, 37214, USA",
+    "lat": 36.2094013,
+    "lng": -86.6864671
+  },
+  {
+    "name": "Victory Apostolic Church",
+    "pastor": "Rev. Henry Buczynski",
+    "address": "102 E Grant AVE, Johnson, KS, 67855, USA",
+    "lat": 37.5701045,
+    "lng": -101.7505168
+  },
+  {
+    "name": "Victory Apostolic Church",
+    "pastor": "Rev. Jason Allen",
+    "address": "231 Airport RD, Sutton, WV, 26601, USA",
+    "lat": 38.6876561,
+    "lng": -80.67131499999999
+  },
+  {
+    "name": "Victory In Praise Church",
+    "pastor": "Rev. Frankie Millington",
+    "address": "101 Awentia ST UNIT 122, Leduc, AB, T9E 1H5, Canada",
+    "lat": 53.26606040000001,
+    "lng": -113.596848
+  },
+  {
+    "name": "Victory Tabernacle Church",
+    "pastor": "Rev. Kevin Sanders",
+    "address": "8478 Old Monroe RD, Bastrop, LA, 71220, USA",
+    "lat": 32.7533721,
+    "lng": -91.91022389999999
+  },
+  {
+    "name": "Walker Pentecostal Church",
+    "pastor": "Rev. Clay Rouse",
+    "address": "9969 Florida BLVD, Walker, LA, 70785, USA",
+    "lat": 30.4879755,
+    "lng": -90.868875
+  },
+  {
+    "name": "World Of Pentecost",
+    "pastor": "Rev. Kenneth Godair",
+    "address": "1935 Hanford RD, Burlington, NC, 27216, USA",
+    "lat": 36.0601629,
+    "lng": -79.4286057
+  },
+  {
+    "name": "Worship Tabernacle",
+    "pastor": "Rev. Aaron Haug",
+    "address": "813 Sibley ST, Hammond, IN, 46320, USA",
+    "lat": 41.6145609,
+    "lng": -87.5082918
+  },
+  {
+    "name": "First Pentecostal Church of North Little Rock",
+    "pastor": "Bishop Joel Holmes",
+    "address": "1401 Calvary Rd, North Little Rock, AR 72116",
+    "lat": 34.7936,
+    "lng": -92.2409
+  },
+  {
+    "name": "First Pentecostal Church of Batesville",
+    "pastor": "Pastor Nathan Eddy",
+    "address": "684 Harrison St, Batesville, AR 72501",
+    "lat": 35.7689,
+    "lng": -91.641
+  }
+]
