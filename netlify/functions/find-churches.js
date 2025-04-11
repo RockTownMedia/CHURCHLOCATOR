@@ -13,6 +13,22 @@ function haversine(lat1, lon1, lat2, lon2) {
   return R * c;
 }
 
+const priorityChurches = [
+  { name: "First Pentecostal Church of North Little Rock", address: "1401 Calvary Rd, North Little Rock, AR 72116" },
+  { name: "First Pentecostal Church of Batesville", address: "684 Harrison St, Batesville, AR 72501" },
+  { name: "Calvary Pentecostal Church", address: "308 Janette St, Hot Springs, AR 71901, USA" },
+  { name: "Calvary Pentecostal Church", address: "222 N Hickory St, Amity, AR 71921, USA" },
+  { name: "Jethro Pentecostal Church", address: "15363 Lower Jethro RD, Ozark, AR, 72949, USA" },
+  { name: "Landmark Pentecostal Church", address: "1601 Mall Dr, Texarkana, TX 75503, USA" },
+  { name: "Landmark Pentecostal Church", address: "120 County Road 3004, New Boston, TX 75570, USA" },
+  { name: "Faith Tabernacle Of Tomball", address: "9525 FM 2920 RD, Tomball, TX, 77375, USA" },
+  { name: "Solid Rock Church", address: "E Main St, Marshall, AR 72650, USA" }
+];
+
+function isPriority(church) {
+  return priorityChurches.some(pc => pc.name === church.name && pc.address === church.address);
+}
+
 exports.handler = async (event) => {
   const zip = event.queryStringParameters.zip;
   const userLoc = zipCoords[zip];
@@ -31,19 +47,11 @@ exports.handler = async (event) => {
   }).sort((a, b) => a.distance - b.distance);
 
   const nearby = results.filter(ch => ch.distance <= 30);
+  const baseList = nearby.length > 0 ? nearby : results.slice(0, 2);
 
-  let final;
-
-  if (nearby.length > 0) {
-    const prioritized = nearby.filter(ch => (ch.name === 'First Pentecostal Church of North Little Rock' && ch.address === '1401 Calvary Rd, North Little Rock, AR 72116') || (ch.name === 'First Pentecostal Church of Batesville' && ch.address === '684 Harrison St, Batesville, AR 72501') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '308 Janette St, Hot Springs, AR 71901, USA') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '222 N Hickory St, Amity, AR 71921, USA') || (ch.name === 'Jethro Pentecostal Church' && ch.address === '15363 Lower Jethro RD, Ozark, AR, 72949, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '1601 Mall Dr, Texarkana, TX 75503, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '120 County Road 3004, New Boston, TX 75570, USA') || (ch.name === 'Faith Tabernacle Of Tomball' && ch.address === '9525 FM 2920 RD, Tomball, TX, 77375, USA') || (ch.name === 'Solid Rock Church' && ch.address === 'E Main St, Marshall, AR 72650, USA'));
-    const others = nearby.filter(ch => !((ch.name === 'First Pentecostal Church of North Little Rock' && ch.address === '1401 Calvary Rd, North Little Rock, AR 72116') || (ch.name === 'First Pentecostal Church of Batesville' && ch.address === '684 Harrison St, Batesville, AR 72501') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '308 Janette St, Hot Springs, AR 71901, USA') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '222 N Hickory St, Amity, AR 71921, USA') || (ch.name === 'Jethro Pentecostal Church' && ch.address === '15363 Lower Jethro RD, Ozark, AR, 72949, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '1601 Mall Dr, Texarkana, TX 75503, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '120 County Road 3004, New Boston, TX 75570, USA') || (ch.name === 'Faith Tabernacle Of Tomball' && ch.address === '9525 FM 2920 RD, Tomball, TX, 77375, USA') || (ch.name === 'Solid Rock Church' && ch.address === 'E Main St, Marshall, AR 72650, USA')));
-    final = [...prioritized, ...others];
-  } else {
-    const closest = results.slice(0, 10);
-    const prioritized = closest.filter(ch => (ch.name === 'First Pentecostal Church of North Little Rock' && ch.address === '1401 Calvary Rd, North Little Rock, AR 72116') || (ch.name === 'First Pentecostal Church of Batesville' && ch.address === '684 Harrison St, Batesville, AR 72501') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '308 Janette St, Hot Springs, AR 71901, USA') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '222 N Hickory St, Amity, AR 71921, USA') || (ch.name === 'Jethro Pentecostal Church' && ch.address === '15363 Lower Jethro RD, Ozark, AR, 72949, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '1601 Mall Dr, Texarkana, TX 75503, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '120 County Road 3004, New Boston, TX 75570, USA') || (ch.name === 'Faith Tabernacle Of Tomball' && ch.address === '9525 FM 2920 RD, Tomball, TX, 77375, USA') || (ch.name === 'Solid Rock Church' && ch.address === 'E Main St, Marshall, AR 72650, USA'));
-    const others = closest.filter(ch => !((ch.name === 'First Pentecostal Church of North Little Rock' && ch.address === '1401 Calvary Rd, North Little Rock, AR 72116') || (ch.name === 'First Pentecostal Church of Batesville' && ch.address === '684 Harrison St, Batesville, AR 72501') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '308 Janette St, Hot Springs, AR 71901, USA') || (ch.name === 'Calvary Pentecostal Church' && ch.address === '222 N Hickory St, Amity, AR 71921, USA') || (ch.name === 'Jethro Pentecostal Church' && ch.address === '15363 Lower Jethro RD, Ozark, AR, 72949, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '1601 Mall Dr, Texarkana, TX 75503, USA') || (ch.name === 'Landmark Pentecostal Church' && ch.address === '120 County Road 3004, New Boston, TX 75570, USA') || (ch.name === 'Faith Tabernacle Of Tomball' && ch.address === '9525 FM 2920 RD, Tomball, TX, 77375, USA') || (ch.name === 'Solid Rock Church' && ch.address === 'E Main St, Marshall, AR 72650, USA')));
-    final = [...prioritized, ...others].slice(0, 2);
-  }
+  const prioritized = baseList.filter(isPriority);
+  const nonPrioritized = baseList.filter(ch => !isPriority(ch));
+  const final = [...prioritized, ...nonPrioritized];
 
   const html = final.map(ch => `
     <div>
